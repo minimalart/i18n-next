@@ -16,5 +16,5 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-USing this doc [https://locize.com/blog/next-app-dir-i18n/](i18n Next Docs) we connect server and client side logic for i18n!
+USing this doc [https://locize.com/blog/next-app-dir-i18n/](https://locize.com/blog/next-app-dir-i18n/) we connect server and client side logic for i18n!
 
