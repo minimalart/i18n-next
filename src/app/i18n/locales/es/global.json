@@ -1,0 +1,7 @@
+{
+    "title": "¡Hola, Mundo!",
+    "description": "Este es un ejemplo simple de una traducción.",
+    "changeLang": "Cambiar idioma",
+    "counter": "Contador {{count}}"
+
+}
